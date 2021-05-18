@@ -109,7 +109,7 @@ body {
     background-color: rgb(130, 203, 245, 0.9);
     width: 100%;
     z-index: 999;
-    padding-left: 10%;
+    padding-left: 1%;
 }
 
 .subnav-content a {
