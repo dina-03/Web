@@ -329,3 +329,6 @@ footer img {
     padding-right: 15px;
     padding-top: 10px;
 }
+footer a:hover{
+    opacity: 0.7;
+}
